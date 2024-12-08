@@ -27,6 +27,6 @@ In den Unterverzeichnissen *java* und *python* befinden sich jeweils einfache Im
 
 ## Die Beispiele ausführen
 ### Python
-Sie benötigen einen Python-3-Interpreter. Geben Sie dann im Verzeichnis *python* einfach *python3 houses.py* ein, um die Lösung des Zuordnungsrätsels zu erhalten, oder *python3 sudoku.py sudoku.txt* für die Lösung des beiligenden Beispiel-Sudokus. Andere Sudokus können Sie im selben Format als Textdateien speichern und dann mittels *python3 sudoku.py <Dateiname>* lösen lassen.
+Sie benötigen einen Python-3-Interpreter. Geben Sie dann im Verzeichnis *python* einfach *python3 houses.py* ein, um die Lösung des Zuordnungsrätsels zu erhalten, oder *python3 sudoku.py sudoku.txt* für die Lösung des beiligenden Beispiel-Sudokus. Andere Sudokus können Sie im selben Format als Textdateien speichern und dann mittels *python3 sudoku.py &lt;Dateiname&gt;* lösen lassen.
 ### Java
 Die Beispiele müssten mit allen Java-Versionen ab 8 funktionieren. Kompilieren Sie zunächst *Houses.java* beziehungsweise *Sudoku.java* mit dem Kommandozeilen-Compiler *javac* oder in Ihrer IDE, und führen Sie anschließend *java Houses* beziehungsweise *java Sudoku sudoku.txt* aus.
